@@ -1,0 +1,7 @@
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\bin\Debug\bankaMatik.exe.config
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\bin\Debug\bankaMatik.exe
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\bin\Debug\bankaMatik.pdb
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\obj\Debug\bankaMatik.csproj.AssemblyReference.cache
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\obj\Debug\bankaMatik.csproj.CoreCompileInputs.cache
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\obj\Debug\bankaMatik.exe
+C:\Users\aslan\source\repos\bankaMatik\bankaMatik\obj\Debug\bankaMatik.pdb
